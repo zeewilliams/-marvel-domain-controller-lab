@@ -91,9 +91,9 @@ Repeat for other users (e.g., Steve Rogers, Natasha Romanoff, Nick Fury, etc.)
 
 | Description                      | Screenshot                         |
 |----------------------------------|-------------------------------------|
-| AD OU structure                  | ![null](images/ou-structure.png)    |
-| Marvel-themed users in AD        | ![null](images/marvel-users.png)    |
-| GPO applied to Avengers OU       | ![null](images/gpo-avengers.png)    |
+| AD OU structure                  | ![null](Organizational-Unit-Layout.jpg)    |
+| Marvel-themed users in AD        | ![null](Tony-Stark-Prop.png)    |
+| GPO applied to Avengers OU       | ![null](GPMC-marvel.png)    |
 
 ---
 
