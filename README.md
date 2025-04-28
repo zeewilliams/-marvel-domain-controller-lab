@@ -1,6 +1,6 @@
 # 🧩 Marvel-Themed Domain Controller Lab
 
-![null](images/domain-controller-cover.png) <!-- Replace with a cover image -->
+![null](virtual_network_advanced.png) <!-- Replace with a cover image -->
 
 ---
 
